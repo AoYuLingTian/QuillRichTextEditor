@@ -1,0 +1,4 @@
+include ':app', ':qull_android'
+include("picture_library")
+include("ucrop")
+rootProject.name='QuillRichTextEditor'
