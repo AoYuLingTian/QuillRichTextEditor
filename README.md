@@ -1,0 +1,3 @@
+# QuillRichTextEditor
+Android 集成Quill的编辑器
+这是集成了Quill的富文本编辑器，实现了本本编辑的一些简单的功能
